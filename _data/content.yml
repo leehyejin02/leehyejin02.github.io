@@ -12,11 +12,11 @@ hero:
   after_title: "I am <strong>Cyber Security Professional</strong>"
   description: "한국 폴리텍 대학 강서캠퍼스 사이버 보안과 2학년 입니다."
   button1:
-    label: "이력서 다운받기"
-    link: "assets/files/hyejin-lee-resume.pdf"
+    label: "이력서 1페이지"
+    link: "assets/files/resume1.png"
   button2:
-    label: "My Skills"
-    link: "#skills-section"
+    label: "이력서 2페이지"
+    link: "assets/files/resume2.png"
   bg_title: "Cyber Security"
   info:
     - num: "2 <strong>+</strong>"
