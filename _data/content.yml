@@ -19,7 +19,7 @@ hero:
     link: "#skills-section"
   bg_title: "Cyber Security"
   info:
-    - num: "1 <strong>+</strong>"
+    - num: "2 <strong>+</strong>"
       value: "Years of <strong>Experience</strong>"
 
     - num: "4"
