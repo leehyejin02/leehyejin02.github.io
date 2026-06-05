@@ -2,7 +2,7 @@
 ##
 ### use navigation.yml file to re-order, delete or add section of each card
 ### here you can find all content in all pre-build sections
-
+ 
 ### Hero [ hero-image ]
 hero:
   image: "assets/img/profile.png"
@@ -21,71 +21,71 @@ hero:
   info:
     - num: "2 <strong>+</strong>"
       value: "Years of <strong>Experience</strong>"
-
+ 
     - num: "4"
       value: "Completed <strong>Projects</strong>"
-
+ 
 ### Services [ services ]
 services:
   title: "What I Do"
   subtitle: "my <b>Services</b>"
   bg_title: "Services"
-
+ 
   items:
     - title: "취약점 분석 &amp; 모의해킹"
       subtitle: "Vulnerability Assessment &amp; Penetration Testing"
       text: "웹 애플리케이션 및 시스템 환경의 취약점을 분석하고, CTF 경험을 바탕으로 침투 테스트를 수행합니다."
-
+ 
     - title: "네트워크 보안"
       subtitle: "Network Security"
       text: "iptables, Snort, IDS 등을 활용한 네트워크 트래픽 분석 및 침입 탐지 시스템 구축 경험이 있습니다."
-
+ 
     - title: "웹 보안"
       subtitle: "Web Security"
       text: "Burp Suite를 활용한 웹 애플리케이션 취약점 분석 및 보안 점검을 수행합니다."
-
+ 
 ### Skills [ skills ]
 skills:
   title: "Professional Skills"
   subtitle: "my <b>Talent</b>"
   bg_title: "Skills"
-
+ 
   column1:
     items:
       - label: "Python"
         text: "자동화 스크립트, 네트워크 패킷 분석, 보안 도구 개발 등에 활용합니다."
         value: "70"
-
+ 
       - label: "C / C++"
         text: "시스템 프로그래밍 및 보안 관련 알고리즘 구현에 활용합니다."
         value: "60"
-
+ 
   column2:
     items:
       - label: "Linux / Bash"
         text: "Kali Linux 기반 침투 테스트 및 쉘 스크립트 작성 경험이 있습니다."
         value: "80"
-
+ 
       - label: "Wireshark"
         text: "네트워크 트래픽 캡처 및 패킷 분석 도구로 활용합니다."
         value: "75"
-
+ 
   column3:
     items:
       - label: "Burp Suite"
         text: "웹 애플리케이션 취약점 분석 및 프록시 기반 보안 점검에 사용합니다."
         value: "65"
-
+ 
       - label: "Nmap"
         text: "네트워크 스캐닝 및 포트 분석을 통한 공격 표면 파악에 활용합니다."
         value: "70"
-
+ 
 ### Resume [ resume ]
 resume:
   title: "Resume"
   subtitle: "my <b>Story</b>"
   bg_title: "History"
-
+ 
   education:
     title: "Education &amp; Certification"
     items:
@@ -93,27 +93,27 @@ resume:
         subname: "사이버보안과"
         period: "2025 - Present"
         text: "네트워크 보안, 시스템 해킹, 악성코드 분석 등 사이버 보안 전반을 전공하고 있습니다."
-
+ 
       - name: "정보처리산업기사"
         subname: "한국산업인력공단"
         period: "취득 예정"
         text: "정보처리 실무 능력을 검증하는 국가기술자격증을 준비 중입니다."
-
+ 
       - name: "네트워크관리사 2급"
         subname: "한국정보통신자격협회"
         period: "2025.12"
         text: "네트워크 설계, 운영 및 관리 능력을 검증하는 국가공인 자격증을 취득하였습니다."
-
+ 
       - name: "리눅스마스터 2급"
         subname: "한국정보통신진흥협회"
         period: "2025.10"
         text: "리눅스 시스템 운영 및 관리 역량을 검증하는 자격증을 취득하였습니다."
-
+ 
       - name: "공동주택IT안전관리사 2급"
         subname: "한국홈네트워크안전관리협회"
         period: "2025.09"
         text: "공동주택 IT 인프라의 보안 및 안전 관리 역량을 검증하는 자격증을 취득하였습니다."
-
+ 
   experience:
     title: "Experience"
     items:
@@ -121,81 +121,29 @@ resume:
         subname: "한국폴리텍대학 강서캠퍼스"
         period: "2026.03 - 2026.06"
         text: "북한OS 환경에서 백도어를 기반한 랜섬웨어 동작 구현 및 대응 프로젝트를 PM으로 담당, 보고서 작성 및 발표."
-
+ 
       - name: "동아리 &lt;White RootKit&gt; 회장"
         subname: "보안 스터디 &amp; 프로젝트"
         period: "2026.01 - 2026.12"
         text: "동아리 창설 및 회장으로서 iptables/Snort/IDS를 활용한 LLM AI 자동화 프로젝트 진행 및 VPN 구현. 방학 보안 스터디 운영."
-
+ 
       - name: "동계학술대회 논문 발표"
         subname: "한국컴퓨터정보학회"
         period: "2025.09 - 2025.12"
         text: "스타일 지문 기반 AI 저작권 보호 시스템 논문 작성 및 발표. 2026년 동계학술대회 논문집 제34권 1호 등재."
-
+ 
       - name: "만우조홍제스칼러십 홍보단 팀장"
         subname: "한국타이어나눔재단"
         period: "2025.08 - 2026.08"
         text: "기술인재 장학생으로 선발되어 홍보단 팀장으로 활동. 비전 워크숍 팀프로젝트 우수상 수상 (2025.08)."
-
+ 
       - name: "1학년 과대표"
         subname: "한국폴리텍대학 강서캠퍼스 사이버보안과"
         period: "2025.03 - 2025.12"
         text: "학과 학생 대표로 학사 일정 관리 및 학생-교수 간 소통 역할을 담당하였습니다."
-
-### Portfolio [ portfolio ]
-portfolio:
-  title: "Portfolio"
-  subtitle: "my <b>Cases</b>"
-  bg_title: "Portfolio"
-  button:
-    link: "works/"
-    label: "View More"
-
-  items:
-    - title: "융합프로젝트 — 북한OS 기반 랜섬웨어 구현 및 대응"
-      subtitle: "PM · 블루팀"
-      period: "2026.03 - 2026.06"
-      text: "북한 OS(붉은별) 가상머신 환경에서 백도어 기반 랜섬웨어 동작 시나리오 설계 및 구현, 침해 대응 방안 수립. PM으로서 산출물 9종 작성 및 발표."
-      tags:
-        - "Kali Linux"
-        - "랜섬웨어 분석"
-        - "블루팀/레드팀"
-        - "PM"
-      link: "https://github.com/leehyejin02/leehyejin02.github.io"
-
-    - title: "동아리 White RootKit — LLM AI 자동화 보안 프로젝트"
-      subtitle: "동아리 회장 · 프로젝트 주도"
-      period: "2026.01 - 2026.12"
-      text: "iptables / Snort / IDS 연계 LLM AI 자동화 보안 프로젝트 기획 및 진행. VPN 구현 및 MOVEit Transfer 모의해킹 수행."
-      tags:
-        - "iptables"
-        - "Snort"
-        - "LLM"
-        - "VPN"
-        - "모의해킹"
-      link: "https://github.com/leehyejin02/leehyejin02.github.io"
-
-    - title: "리눅스 기반 방화벽 정책 설정 실습"
-      subtitle: "단독 실습"
-      period: "2025"
-      text: "Kali Linux + Ubuntu로 서버·클라이언트·DMZ존 네트워크 환경 구성. iptables 규칙 13개 설계·적용 및 Wireshark 트래픽 분석."
-      tags:
-        - "iptables"
-        - "Wireshark"
-        - "DMZ"
-        - "Linux"
-      link: "https://github.com/leehyejin02/leehyejin02.github.io"
-
-    - title: "AI 저작권 보호 시스템 연구"
-      subtitle: "자율 연구 · 논문 발표"
-      period: "2025"
-      text: "AI 생성 데이터의 법적 권리 및 개인정보보호 이슈 조사·분석. 스타일 지문 기반 AI 저작권 보호 시스템 논문 작성 및 학술대회 발표."
-      tags:
-        - "AI 저작권"
-        - "개인정보보호"
-        - "논문"
-      link: "https://github.com/leehyejin02/leehyejin02.github.io"
-
+ 
+ 
+ 
 ### Blog [ blog ]
 blog:
   title: "Latest Blog"
@@ -204,22 +152,22 @@ blog:
   button:
     label: "View Blog"
     link: "blog/"
-
+ 
 ### Contact [ contacts ]
 contacts:
   title: "Contact Me"
   subtitle: "Let's <b>Talk About Ideas</b>"
   bg_title: "Contact Me"
-
+ 
   list:
     - label: "Location"
       icon: "far fa-map"
       text: "서울특별시 강서구"
-
+ 
     - label: "Email"
       icon: "far fa-envelope"
       text: "wls2668@naver.com"
-
+ 
     - label: "GitHub"
       icon: "fab fa-github"
       text: "github.com/leehyejin02"

@@ -1,42 +1,29 @@
 # Theme Settings Configuration File
 ##
 ### use settings.yml file for configure colors, ui, rtl, sidebar, animation options
-
+ 
 ### Main Settings
 settings:
   skin: "light" # select initial skin option: "light" or "dark"
-
+ 
 ### Preloader
 preloader:
   logo:
     image: "assets/img/logo2.png"
     alt: "Hyejin Lee"
-
+ 
 ### Header
 header:
   logo:
     image: "assets/img/logo2.png"
     alt: "Hyejin Lee"
-
+ 
 ### Social
 social:
   - title: "Tistory"
     icon: "fab fa-blogger"
     url: "https://benois.tistory.com/"
-
+ 
 ### Footer
 footer:
   copyright: "© Hyejin Lee. All rights reserved"
-
-### Portfolio Filters Settings
-portfolio:
-  layout: "list" # select works layout options: "Grid" or "List"
-  filters:
-    - name: "Penetration Testing"
-      slug: "penetration-testing"
-
-    - name: "Network Security"
-      slug: "network-security"
-
-    - name: "Research"
-      slug: "research"
