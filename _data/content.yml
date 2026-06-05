@@ -58,7 +58,7 @@ skills:
  
       - label: "C / C++"
         text: "시스템 프로그래밍 및 보안 관련 알고리즘 구현에 활용합니다."
-        value: "60"
+        value: "70"
  
   column2:
     items:
@@ -74,7 +74,7 @@ skills:
     items:
       - label: "Burp Suite"
         text: "웹 애플리케이션 취약점 분석 및 프록시 기반 보안 점검에 사용합니다."
-        value: "65"
+        value: "70"
  
       - label: "Nmap"
         text: "네트워크 스캐닝 및 포트 분석을 통한 공격 표면 파악에 활용합니다."
